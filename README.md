@@ -20,10 +20,10 @@ build a quick Power BI report for business users.
 ### Ingest into Snowflake using Snowpark:
 
 1. Connecting snowflake and azure blob storage:
-![](./o3.png)
+![](./img/o3.png)
 
 2. Creating stage:
-![](./o2.png)
+![](./img/o2.png)
 
 3. Using Snowpark to load data:
 ```py
@@ -58,7 +58,7 @@ df = session.read \
     .option("PARSE_HEADER", True) \
     .csv("@azure_stage_sas/Retail_Sales.csv")
 ```
-![](./o4.png)
+![](./img/o4.png)
 
 5. Transforming the dataset:
 ```py
@@ -85,17 +85,17 @@ df_transformed = (
 )
 df_transformed.show()
 ```
-![](./o5.png)
+![](./img/o5.png)
 
 
 ### Power-BI visualization:
 1. Sum of sales by region and by country:
-![](./o6.png)
+![](./img/o6.png)
 2. Sum of Sales based on Month of sale
-![](./o7.png)
+![](./img/o7.png)
 3. Sales by category and sub-category
-![](./o8.png)
+![](./img/o8.png)
 4. Performance category and Discount impact:
-![](./o9.png)
+![](./img/o9.png)
 5. Summary Table:
-![](./o10.png)
+![](./img/o10.png)
