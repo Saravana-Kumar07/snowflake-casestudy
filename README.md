@@ -60,7 +60,7 @@ df = session.read \
 ```
 ![](./img/o4.png)
 
-5. Transforming the dataset:
+4. Transforming the dataset:
 ```py
 from snowflake.snowpark.functions import col, to_date, year, month, when, lit
 df_transformed = (
