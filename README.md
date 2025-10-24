@@ -89,8 +89,13 @@ df_transformed.show()
 
 
 ### Power-BI visualization:
+1. Sum of sales by region and by country:
 ![](./o6.png)
+2. Sum of Sales based on Month of sale
 ![](./o7.png)
+3. Sales by category and sub-category
 ![](./o8.png)
+4. Performance category and Discount impact:
 ![](./o9.png)
+5. Summary Table:
 ![](./o10.png)
