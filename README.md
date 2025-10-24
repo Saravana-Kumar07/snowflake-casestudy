@@ -85,3 +85,12 @@ df_transformed = (
 )
 df_transformed.show()
 ```
+![](./o5.png)
+
+
+### Power-BI visualization:
+![](./o6.png)
+![](./o7.png)
+![](./o8.png)
+![](./o9.png)
+![](./o10.png)
