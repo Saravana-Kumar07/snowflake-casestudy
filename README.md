@@ -1,4 +1,4 @@
-# <p align='center'> Snowflake Challenge - Case Study </p>
+# <p align='center'> Snowflake Training - Case Study </p>
 ### Name: Saravana Kumar S
 Superset ID: 5371342<br>
 College: Saveetha Engineering college
