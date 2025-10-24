@@ -15,7 +15,7 @@ build a quick Power BI report for business users.
 
 ### Intially upload the dataset in Azure Blob storage:
 
-![](./o1.png)
+![](./img/o1.png)
 
 ### Ingest into Snowflake using Snowpark:
 
